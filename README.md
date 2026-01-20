@@ -55,7 +55,7 @@ This is the only script required to replicate all empirical results, with logic 
 2. Generate descriptive statistics for core variables (CI, DF, VC, GF, etc.).
 3. Estimate baseline regressions (xtreg fixed effects with cluster-robust standard errors, following the FDDC framework).
 4. Conduct heterogeneity tests (Market Core/G1, Policy Core/G2, Periphery/G3) and mechanism validation (DF×VC, DF×GF interactions).
-5. Export all results (coefficients, SE, p-values, model fit) to `/result/a1.log`.
+5. Export all results (coefficients, SE, p-values, model fit) to `/result/a.log`.
 
 
 ### (2) Weight Construction Script (/analysis/wconstructingcode.do)
