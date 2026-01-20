@@ -24,7 +24,7 @@ This repository contains all replication materials for the paper *A Tale of Two 
   code.do                           # Main script (run this to replicate results)
   wconstructingcode.do              # Radiation weight construction (for inspection only)
 /result
-  a1.log                            # Full regression result log
+  a.log                            # Full regression result log
 README.md                           # This document
 ```
 
